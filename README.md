@@ -26,14 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ***iPhone 8 Plus screen size:***
 
-<img src="https://i.imgur.com/x8Dl9oH.gif"/>
-
 ![](https://i.imgur.com/x8Dl9oH.gif)
-
-***iPod touch gen 7 screen size: ***
-
-![](https://i.imgur.com/djs5wZf.gif)
-
 
 
 ### Notes
