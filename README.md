@@ -20,14 +20,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-***iPhone 13 Pro Max screen size: ***
+***iPhone 13 Pro Max + iPhone 8 Pro + iPod Touch Gen 7 Screens: ***
 
-![](https://i.imgur.com/cNJYSml.gif)
+![](https://i.imgur.com/xEkogel.gif)
 
-
-***iPod touch gen 7 screen size: ***
-
-![](https://i.imgur.com/djs5wZf.gif)
 
 ### Notes
 TableView was a complex topic to implement, but highly valuable once I saw how widespread it's applications were. It took several tries to understand auto layout and making it work with various screens, but the end result gave me perspective on how to hold myself accountable to making apps that were accessible by practically any iOS device, and not just the latest model. 
