@@ -48,6 +48,8 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         task.resume()
         
         
+        
+        
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -96,7 +98,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
         let detailsViewController = segue.destination as! MovieDetailsViewController
         detailsViewController.movie = movie
         
-        // Deselects the previously selected cell, personal UI clean-up preference to make going back look cleaner. 
+        // Deselects the previously selected cell, personal UI clean-up preference to make going back look cleaner.
         tableView.deselectRow(at: indexPath, animated: true)
     }
 
