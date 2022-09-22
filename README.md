@@ -16,10 +16,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/LaUrrego/flix-ios-app/blob/main/GIF/flix-part-2.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Updating to add a tab bar with a "filtered" group of results proved to be more straightforward than expected, further expanding my working knowledge of how to work with APIs . The idea of having separate navigation controllers to retain a "dedicated history" helped drive home the importance of user experience. Learning to implement the new WKWebView will take some time, but will be an upcoming addition as well as a search bar results view. 
 
 ---
 
