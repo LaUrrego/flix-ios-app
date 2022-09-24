@@ -8,15 +8,15 @@
 import UIKit
 import WebKit
 
-class TrailerWebViewController: UIViewController {
+//class TrailerWebViewController: UIViewController {
     
-    private let webView: WKWebView
+//    private let webView: WKWebView
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
+//    override func viewDidLoad() {
+//        super.viewDidLoad()
 
         
-    }
+//    }
     
 
     /*
@@ -29,4 +29,4 @@ class TrailerWebViewController: UIViewController {
     }
     */
 
-}
+//}
